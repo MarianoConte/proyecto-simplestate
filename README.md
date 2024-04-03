@@ -11,3 +11,6 @@ Como correr el proyecto
     4. Correr el proyecto con `npm run dev`
     5. Abrir el navegador en `http://localhost:5173/`
 
+Como correr el proyecto
+
+    1. Ejecutar el comando `npm run test`
